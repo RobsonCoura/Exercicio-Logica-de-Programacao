@@ -1,0 +1,42 @@
+Em certo município foi feita uma pesquisa para determinar, em
+cada residência, quantas crianças havia até 10 anos de idade.
+
+O resultado está na tabela a seguir:
+
+Número de crianças | Quantidade de residências
+        0                       25
+        1                       44
+        2                       56
+        3                       20
+        4                       12
+    mais de 4                    3
+
+Em relação ao total de residências pesquisadas, as que possuem
+somente uma ou duas crianças representam:
+
+(A) 55,0%;
+
+(B) 57,5%;
+
+(C) 60,0%;
+
+(D) 62,5%; ( x )
+
+(E) 64,0%.
+
+=============================================================================================================================
+
+1) Somamos o número de residências com 1 criança e 2 crianças:
+
+Residências com 1 criança: 44
+Residências com 2 crianças: 56
+
+Total de residências com 1 ou 2 crianças: 44 + 56 = 100 residências.
+
+2) Total de residências: 25 + 44 + 56 + 20 + 12 + 3 = 160 residências.
+
+3) 100/160 = 0.625
+
+4) Para encontrar a porcentagem correspondente, multiplicamos o resultado decimal por 100:
+
+5) 0.625 * 100 = 62,5%
