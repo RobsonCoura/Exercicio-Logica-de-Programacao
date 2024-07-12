@@ -1,0 +1,30 @@
+Em um encontro de 12 pessoas, 8 delas se conhecem mutuamente
+e cada uma das outras 4 não conhece nenhuma das pessoas
+presentes ao encontro. Pessoas que se conhecem mutuamente se
+cumprimentam com um abraço e pessoas que não se conhecem se
+cumprimentam com um aperto de mão. Todas as pessoas
+presentes ao encontro se cumprimentam entre si.
+
+O número de apertos de mão dados é:
+
+(A) 32; 
+
+(B) 36;
+
+(C) 38; ( x )
+
+(D) 42;
+
+(E) 44.
+
+===============================================================================================================================
+
+1) Primeiro, subtraímos o número de pessoas que não se conhecem: (12 - 8 = 4). Isso significa que das 12 pessoas presentes, 8 delas se conhecem e 4 não se conhecem.
+
+2) Agora, consideramos as combinações entre as 8 pessoas que se conhecem e as 4 pessoas que não se conhecem. Isso resulta em (6) combinações entre as duas categorias.
+
+3) Cada uma das 4 pessoas que não se conhecem apertará a mão de 8 pessoas diferentes as 8 que se conhecem.
+
+4) Portanto, temos 4 não se conhecem\8 que se conhecem = 32 apertos de mão entre as pessoas que não se conhecem. 4x8= 32
+
+5) Somando os apertos de mão entre as pessoas que se conhecem (0, pois elas se cumprimentam com abraços) e as pessoas que não se conhecem, obtemos um total de (32 + 6 = 38) apertos de mão.
